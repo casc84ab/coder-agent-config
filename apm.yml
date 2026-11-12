@@ -8,6 +8,7 @@ author: casc84ab
 targets:
 - codex
 - opencode
+- claude
 dependencies:
   apm: []
   mcp: []
